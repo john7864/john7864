@@ -14,7 +14,7 @@ Le code est écrit par des agents IA sous ma direction&nbsp;: la spec, l'archite
 | **[Hermès Coach](https://coach.rvlts.com)** | Coach de suivi de traitement GLP-1 — web, Android natif, abonnement, agent IA d'analyse | React 19 · TypeScript · Express 5 · SQLite · Kotlin/Compose |
 | **ProAssistant IA** | Outil métier des artisans&nbsp;: dicter une intervention, ressortir un devis — multi-tenant | React · Express · Prisma · PostgreSQL · Whisper local |
 | **[Freestyle Crew](https://freestyle-crew.com)** | Créateur de chansons IA + plateforme de battles du crew | Node.js · socket.io · cluster PM2 · app Android |
-| **[Neon Dash](https://neon.rvlts.com)** | Jeu de rythme multijoueur temps réel — fantômes, classement mondial, éditeur de niveaux | Canvas · WebAudio · WebSocket Node natif, zéro dépendance |
+| **[Neon Dash](https://neon.rvlts.com)** | Jeu de rythme multijoueur temps réel — fantômes, classement mondial, éditeur de niveaux | Canvas · WebAudio · WebSocket Node natif, zéro dépendance — **[code source](https://github.com/john7864/neon-dash)** |
 | **[rvlts.com](https://rvlts.com)** | Ma première app (avril 2025), toujours en production | — |
 
 ### Infrastructure
@@ -29,4 +29,4 @@ Un produit en ligne n'est pas terminé — il est exploité.
 
 ---
 
-<sub>Le code des produits est privé (données utilisateurs, données de santé). Accès en lecture sur demande pour un entretien.</sub>
+<sub>Code public&nbsp;: [neon-dash](https://github.com/john7864/neon-dash). Le code des produits est privé (données utilisateurs, données de santé). Accès en lecture sur demande pour un entretien.</sub>
