@@ -12,9 +12,10 @@ Le code est écrit par des agents IA sous ma direction&nbsp;: la spec, l'archite
 | Produit | Ce que c'est | Stack |
 |---|---|---|
 | **[Hermès Coach](https://coach.rvlts.com)** · [vitrine](https://github.com/john7864/hermes-coach) | Coach de suivi de traitement GLP-1 — web, Android natif, abonnement, agent IA d'analyse | React 19 · TypeScript · Express 5 · SQLite · Kotlin/Compose |
-| **ProAssistant IA** | Outil métier des artisans&nbsp;: dicter une intervention, ressortir un devis — multi-tenant | React · Express · Prisma · PostgreSQL · Whisper local |
+| **[ProAssistant IA](https://proassistant.rvlts.com/demo)** · [vitrine](https://github.com/john7864/proassistant) | Outil métier des artisans&nbsp;: dicter une intervention, ressortir un devis — multi-tenant | React · Express · Prisma · PostgreSQL · Whisper local |
 | **[Freestyle Crew](https://freestyle-crew.com)** · [vitrine](https://github.com/john7864/freestyle-crew) | Créateur de chansons IA + plateforme de battles du crew | Node.js · socket.io · cluster PM2 · app Android |
 | **[Neon Dash](https://neon.rvlts.com)** | Jeu de rythme multijoueur temps réel — fantômes, classement mondial, éditeur de niveaux | Canvas · WebAudio · WebSocket Node natif, zéro dépendance — **[code source](https://github.com/john7864/neon-dash)** |
+| **[Smart Pantry](https://smartpantry.be)** · [vitrine](https://github.com/john7864/smartpantry) | App anti-gaspillage : inventaire, scan code-barres, menus IA, alertes péremption | React 19 · Firebase · Gemini · Kotlin/Compose |
 | **[rvlts.com](https://rvlts.com)** | Ma première app (avril 2025), toujours en production | — |
 
 ### Infrastructure
